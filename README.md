@@ -1,4 +1,4 @@
-# AireLogic Data Analytics Projects
+# Data Analytics Projects
 
 ## Overview
 This repository contains four innovative projects showcasing the application of data analytics to solve real-world challenges. These projects are designed to demonstrate a variety of skills in data analysis, visualization, and engineering.
